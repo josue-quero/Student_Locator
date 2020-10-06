@@ -1,2 +1,3 @@
-# Student_Locator
-A simple program which takes a high school certificate and determines the avarage grade of the student.
+# Student Locator V0.1
+A tool to filter and search for students that are in certain cities.
+
