@@ -2,7 +2,7 @@ import json
 
 # Program that makes a specific serch for individuals that
 # have a high average final grade from high school. In this case
-# I practiced searching for males wiht a certain final avarage.
+# I practiced searching for males wiht a certain final average.
 # Copyright (C) 2020  David Josué Marcial Quero
 
 # This program is free software; you can redistribute it and/or
